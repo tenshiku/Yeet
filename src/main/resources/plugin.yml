@@ -1,0 +1,6 @@
+name: Yeet
+version: '${project.version}'
+main: com.guppystudios.yeet.Yeet
+api-version: '1.20'
+authors: [tenshiku, Cateyez86, zazzalil]
+description: Players gain the ability to lift and carry another player above their head, as well as throwing the player.
