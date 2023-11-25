@@ -22,7 +22,5 @@ The "Yeet" plugin introduces an engaging and interactive feature to Minecraft se
 ### Permissions
 
 yeet.carry - allows players to pick up other players
-
 yeet.yeet - allows players to throw other players
-
 yeet.toggle - allows players to disable the ability for them to be picked up
